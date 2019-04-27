@@ -1,4 +1,4 @@
-# Portofolio
+# Portfolio
 
 This is my first *Portfolio Page*, I want to make it more *fancier* so that's why I put the old version here. 
 
